@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/btnHomeNavBar"
+    android:title="Home"
+    android:enabled="true"
+    android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item android:id="@+id/btnGroupsNavBar"
+        android:title="Groups"
+        android:icon="@drawable/ic_baseline_group_36"
+        android:enabled="true"/>
+
+    <item android:id="@+id/btnProfileNavBar"
+        android:title="Profile"
+        android:icon="@drawable/ic_user_profile_icon"
+        android:enabled="true"/>
+</menu>
